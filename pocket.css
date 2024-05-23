@@ -1,0 +1,814 @@
+
+*{
+    padding:0px;
+    margin:0px;
+    font-family: "lato" , sans-serif;
+}
+
+
+
+.container1{
+  position: relative;
+  background-size: cover;
+
+}
+
+.heading1{
+    position:absolute;
+    left:150px;
+    font-size:100px;
+    color:white;
+    top:130px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.2;
+}
+#para1{
+    position: absolute;
+    left:150px;
+    color:white;
+    top:550px;
+    font-size:20px;
+    font-weight: 10px;
+    line-height: 1.5;
+}
+
+.logo{
+    position:absolute;
+    left:160px;
+    top:20px;
+}
+
+.image1{
+    position:absolute;
+    left: 800px;
+    top: 200px;
+   
+}
+.image2{
+    position: absolute;
+    left:740px;
+    top:580px;
+   
+}
+.image3{
+    position: absolute;
+    top:510px ;
+    left: 900px;
+    rotate: deg;
+   
+}
+
+.image4{
+    position: absolute;
+    top:480px;
+    left:530px;
+    rotate: -7deg;
+}
+
+/* section 1b */
+
+#para2{
+   position: absolute;
+   top: 750px;
+   color: white;
+   left: 150px;
+}
+
+.cbnlogo{
+    position: absolute;
+    left:345px;
+    top:730px;
+}
+
+#para3{
+    position: absolute;
+    left:390px;
+    top:750px;
+    color: white;
+}
+.ndiclogo{
+    position: absolute;
+    top:750px ;
+    left:540px;
+}
+#para4{
+    position: absolute;
+    top:790px;
+    left:150px;
+    color: white;
+}
+
+/* section 2 */
+
+.container2{
+    position: relative;
+    top: 50px;;
+    height:1000px;
+    width:1000px;
+
+}
+
+.section2b{
+    position: absolute;
+    top:250px;
+    left:200px;
+    background-color: rgb(116, 54, 245);
+    background-image: url(	https://pocketapp.com/_next/static/media/lightning-bolt.857e6270.png);
+    background-clip: border-box;
+    color: white;
+    background-position:right;
+    height: 700px;
+    width: 700px;
+    border-radius: 50px;
+    background-size: 600px 800px;
+    background-repeat: no-repeat;
+    background-position-y: 100px;
+    background-position-x: 200px;
+}
+
+#heading2{
+position: absolute;
+top: 40px;
+left:60px;
+text-align: left;
+
+
+}
+
+.heading2a{
+    position: absolute;
+    top:50px;
+    left:200px;
+    font-size: 80px;
+
+}
+
+.heading2b{
+    position: absolute;
+    left:200px;
+    color:rgb(191, 194, 217);
+    top:170px;
+    word-spacing: 5px;
+    font-size: 30px;
+}
+
+.image5{
+    position: absolute;
+    top: 500px;
+    left:370px;
+
+}
+
+.section2c{
+    position: absolute;
+    top:250px;
+    left:920px;
+    background-color:rgb(34, 173, 128);
+    background-clip: border-box;
+    color: white;
+    background-position:right;
+    height: 330px;
+    width: 350px;
+    border-radius: 50px;
+    background-size: 600px 800px;
+    background-repeat: no-repeat;
+    background-position-y: 100px;
+    background-position-x: 200px;
+}
+
+.svgC{
+    position: absolute;
+    top:50px;
+    left:80px;
+
+
+}
+
+.textdiv2{
+    position: absolute;
+    top:230px;
+    left:45px;
+    text-align: center;
+}
+
+
+.section2d{
+    position: absolute;
+    top:600px;
+    left:920px;
+    background-color:rgb(33, 35, 55);
+    background-clip: border-box;
+    color: white;
+    background-position:right;
+    height: 350px;
+    width: 350px;
+    border-radius: 50px;
+    background-size: 600px 800px;
+    background-repeat: no-repeat;
+    background-position-y: 100px;
+    background-position-x: 200px;
+}
+
+.svgC1{
+    position: absolute;
+    top:50px;
+    left:80px
+}
+
+.svgC2{
+    position: absolute;
+    top: 50px;
+    left:160px
+}
+
+.textdivC3{
+    position: absolute;
+    top:170px;
+    left:35px;
+    text-align-last: center;
+}
+
+.section2e{
+    position: relative;
+    top:1050px;
+    left:200px;
+    background-color: rgb(244, 243, 245);
+    background-image: url(https://pocketapp.com/_next/static/media/wobbly-arrow-bg-1.6b799126.png);
+    background-clip: border-box;
+    color:black;
+    background-position:right;
+    height: 350px;
+    width: 1070px;
+    border-radius: 50px;
+    background-size: 650px 300px;
+    background-repeat: no-repeat;
+    background-position-y:20px;
+    background-position-x: -50px;
+}
+
+.image2e{
+    position: absolute;
+    top:50px;
+    left:600px;
+}
+
+#textdiv2e{
+    position: absolute;
+    top:175px;
+    left:50px;
+    font-size:30px;
+}
+
+
+
+#heading3a{
+    position:relative;
+    top:500px;
+    left:200px;
+    font-size:80px;
+}
+#heading3b{
+position: relative;
+left:210px;
+color:rgb(191, 194, 217);
+top:510px;
+word-spacing: 5px;
+font-size: 35px;
+}
+
+.section3{
+    position: relative;
+    top:570px;
+    left:200px;
+    background-color: rgb(244, 243, 245);
+    background-image: url(https://pocketapp.com/_next/static/media/wobbly-arrow-bg-1.6b799126.png);
+    background-clip: border-box;
+    color:black;
+    background-position:right;
+    height: 600px;
+    width: 700px;
+    border-radius: 50px;
+    background-size: 900px 350px;
+    background-repeat: no-repeat;
+    background-position-y:250px;
+    background-position-x: -200px;
+}
+
+#heading3c{
+    position:relative;
+    top:50px;
+    left:50px;
+    font-weight:10px;
+    font-size: 30px;
+
+}
+
+.image3a{
+    position: relative;
+    top:350px;
+    left:100px;
+}
+
+.section3a{
+    position: absolute;
+    top: 20px;
+}
+
+.svg3a{
+    position:absolute;
+    left:1000px;
+    top:50px;
+}
+
+.section3b{
+position: absolute;
+top:0px;
+left:720px;
+width:350px;
+height:600px;
+background-color: #ffa400;
+border-radius: 50px;
+
+}
+.image3b{
+ position: absolute;
+ top:300px;
+ left:780px;
+
+}
+#heading3d{
+    position: relative;
+    top:180px;
+    text-align: center;
+    font-size: 25px;
+    font-weight:30px;
+}
+.svg3d{
+    position: absolute;
+    left:880px;
+    top:80px;
+}
+
+
+/* section4 */
+
+
+.container4{
+ position: relative;
+
+
+}
+#heading4a{
+    position:relative;
+    top:700px;
+    left:200px;
+    font-size:80px;
+
+}
+
+#heading4b{
+    position: relative;
+    left:210px;
+    color:rgb(191, 194, 217);
+    top:720px;
+    word-spacing: 5px;
+    font-size: 35px;
+}
+
+.section4a{
+    position: relative;
+    top:750px;
+    left:200px;
+    background-color:#22ad80;
+    background-clip: border-box;
+    color:black;
+    background-position:right;
+    height: 600px;
+    width: 550px;
+    border-radius: 50px;
+    background-size: 900px 350px;
+    background-repeat: no-repeat;
+    background-position-y:100px;
+    background-position-x: -200px;
+    background-image: url(https://pocketapp.com/_next/static/media/wobbly-arrow-bg-1.6b799126.png);
+}
+
+#heading4c{
+    position: absolute;
+    top:50px;
+    left:50px;
+    color: white;
+    line-height: 1.5;
+    font-size: 30px;
+}
+
+.image4a{
+    position: relative;
+rotate: -0.25deg;
+left:300px;
+top:348px;
+}
+
+
+.section4b{
+    position: absolute;
+    top:880px;
+    left:780px;
+    background-color:#f4f3f5;
+    background-clip: border-box;
+    color:black;
+    background-position:right;
+    height: 600px;
+    width: 530px;
+    border-radius: 50px;
+}
+
+.svg4a{
+position: absolute;
+left:50px;
+top:50px;
+}
+
+#heading4d{
+    position: absolute;
+    top: 250px;
+    left: 50px;
+    word-spacing: 5px;
+    font-size: 30px;
+    line-height: 1.5;
+    font-weight: 600;
+
+    
+}
+
+/* section5 */
+
+.container5{
+    position: relative;
+}
+
+#heading5a{
+    position:relative;
+    top:500px;
+    left:200px;
+    font-size:80px;
+
+
+}
+
+#heading5b{
+    position: relative;
+    left:210px;
+    color:rgb(191, 194, 217);
+    top:520px;
+    word-spacing: 5px;
+    font-size: 35px;
+}
+
+
+.container5a{
+
+    position: relative;
+    top:600px;
+    left:200px;
+    background-color:#e0334c;
+    background-image: url(https://pocketapp.com/_next/static/media/wobbly-arrow-bg-1.6b799126.png);
+    background-clip: border-box;
+    color:black;
+    background-position:right;
+    height: 600px;
+    width: 700px;
+    border-radius: 50px;
+    background-size: 850px 300px;
+    background-repeat: no-repeat;
+    background-position-y:150px;
+    background-position-x: -150px;
+}
+
+#heading5c{
+    position: absolute;
+    top: 80px;
+    left:40px;
+    color: white;
+    font-size: 30px;
+    line-height: 1.5;
+}
+
+.image5a{
+    position: absolute;
+    top: 250px;
+    left:190px;
+}
+
+.container5b{
+ position: absolute;
+top:0px;
+left:750px;
+width:350px;
+height:600px;
+background-color:rgb(244, 243, 245);
+border-radius: 50px;
+}
+
+.textdiv5{
+    position: absolute;
+    line-height: 1.5;
+    font-size: 25px;
+    top: 200px;
+    left: 80px;
+    text-align: left;
+    font-weight: light;
+
+}
+
+.svg5a{
+    position: absolute;
+    top: 50px;
+    left: 70px;
+}
+
+/* section 6 */
+
+.container6{
+    position: relative;
+
+}
+
+#heading6a{
+    position: absolute;
+    top:750px;
+    left:200px;
+    font-size:80px;
+
+}
+
+#heading6b{
+    position: absolute;
+    top:850px;
+    left:200px;
+    color:rgb(191, 194, 217);
+    word-spacing: 5px;
+    font-size: 35px;
+    line-height: 1.5;
+}
+
+.svg6a{
+    position: absolute;
+    top:785px;
+    left:690px;
+}
+
+.revimage1{
+    position:absolute;
+    top:1000px;
+    left:160px;
+    width: 350px;
+    border: 0.5px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.revimage1:hover{
+        box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+.revimage2{
+    position: absolute;
+    top: 1000px;
+    left:550px;
+    width:350px;
+    border: 0.5px solid #ddd;
+    border-radius: 20px;
+    padding:5px ;
+}
+
+.revimage2:hover{
+        box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.revimage3{
+    position: absolute;
+    top:1000px;
+    left:940px;
+    width:350px;
+    border: 0.3px solid #ddd;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.revimage3:hover{
+        box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+/* section 7 */
+#para7{
+    position: relative;
+    top:1300px;
+    left: 350px;
+    font-size: 30px;
+}
+
+.logo1{
+    position: relative;
+    top:1260px;
+    left:540px;
+}
+
+.logo2{
+    position: relative;
+    top:1155px;
+    left:750px;
+}
+
+.logo3{
+    position: relative;
+    top:1050px;
+    left:950px;
+}
+
+/*container8 */
+
+.container8{
+
+    position: relative;
+    top:1200px;
+    left:150px;
+    background-color:#212337;
+    background-image: url(	https://pocketapp.com/_next/static/media/wavy-bg-black.72ada49b.png);
+    background-clip: border-box;
+    color: white;
+    background-position:right;
+    height: 450px;
+    width: 1100px;
+    border-radius: 50px;
+    background-size: 1200px 600px;
+    background-repeat:no-repeat;
+    background-position-y: -80px;
+    background-position-x: -60px;
+}
+
+#heading8a{
+    position: absolute;
+    top:130px;
+    left: 100px;
+    font-size: 50px;
+}
+
+#heading8b{
+ position: absolute;
+ color:rgb(191, 194, 217);
+top:200px;
+left: 20px;
+word-spacing: 5px;
+font-size: 25px;
+text-align: center;
+}
+
+.image8{
+    position: absolute;
+    top: 100px;
+    left:700px;
+}
+
+.container9{
+    position: relative;
+    background-color:rgb(244, 243, 245) ;
+    width:1100px;
+    top:1300px;
+    left: 150px;
+    border-radius: 50px;
+    
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
+table{
+    padding: 10px;
+    border-spacing: 30px;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+
+}
+
+/* Section 10 */
+
+.container10{
+    position: relative;
+}
+
+.logo10{
+   position: relative;
+   top: 1400px;
+   left:150px;
+}
+
+#textdiv10{
+    position: relative;
+    top:1335px;
+    left:500px;
+    line-height: 3;
+    font-size: 20px;
+}
+
+#textdiv10b{
+    position: absolute;
+    top: 1460px;
+    left:860px;
+    text-align: right;
+    font-size: 20px;
+}
+
+.insta{
+    position: absolute;
+    top:1400px;
+    left:1020px;
+
+}
+
+.twitter{
+    position: absolute;
+    top:1400px;
+    left:1080px;
+}
+
+.tiktok{
+    position: absolute;
+    top:1400px;
+    left:1140px;  
+}
+
+.facebook{
+    position: absolute;
+    top:1400px;
+    left:1200px;
+}
+
+
+/* section 11 */
+
+.container11{
+position: relative;
+
+}
+
+#cbnlogo2{
+    position: absolute;
+    top:1500px;
+    left:150px;
+}
+
+#textdiv11a{
+    position: absolute;
+    top:1520px;
+    left:200px;
+    font-size: 25px;
+}
+
+hr{
+    position:relative;
+    top:1400px;
+    width: 1100px;
+    left:150px;
+    background-color: #ddd;
+}
+
+#ndiclogo2{
+    position: absolute;
+    top: 1505px;
+    left:765px;
+}
+
+#textdiv11b{
+position: absolute;
+top: 1520px;
+left:600px;
+font-size: 25px;
+}
+
+
+/* Section 12 */
+
+.container12{
+    position: relative;
+
+}
+
+#para12{
+    position: absolute;
+    top:1700px;
+    left:200px;
+    font-size: 15px;
+    color:rgb(128, 128, 128);
+}
+
+#copyright{
+    position: absolute;
+    top:1750px;
+    left:600px;
+    color:rgb(116, 54, 245) ;
+   
+}
